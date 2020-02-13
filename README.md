@@ -13,7 +13,7 @@
 
 body {
 padding: 5px 30px;
-background-image: url("Images/shell.jpg");
+background-image: linear-gradient(to bottom right, #3492eb, #a2ccf5, #3492eb);
 background-size:auto;
 background-position:cover;
 }
@@ -47,7 +47,7 @@ display: flex;
 list-style: none;
 justify-content: left;
 padding-top: .5em;
-background-image: url(Images/circuit.jpg);
+background-image: linear-gradient(to right, #3d3d3d, #6b6b6b, #999999, #cfcfcf, #adadad, #6b6b6b, #3d3d3d );
 border-top: 1px solid black;
 border-right: 1px solid black;
 border-top-right-radius:10px;
